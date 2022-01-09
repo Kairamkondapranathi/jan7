@@ -1,0 +1,33 @@
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+  }
+  
+  .topnav a {
+    float: left;
+    color: purple;
+    text-align: center;
+    padding: 12px 15px;
+    text-decoration: purple;
+    font-size: 20px;
+    text-align: center;
+  }
+
+  .topnav  {
+    background-color: plum;
+  }
+  
+  body {
+    background-color: purple;
+  }
+
+  .image {
+    padding-top: 50px;
+    padding-left:1000px;
+  }
+
+  h1 {
+    font-style: oblique;
+    color: seashell;
+   padding-left: 500px;
+  }
